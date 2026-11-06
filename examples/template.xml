@@ -1,0 +1,27 @@
+<offer id="100000" available="true" group_id="12211">
+	<name>ПД100И-ДИ2,5-141-0,25</name>
+	<typePrefix>датчик давления с торцевой открытой мембраной для вязких загрязнённых сред</typePrefix>
+	<url>.....</url>
+	<categoryId>00000</categoryId>
+	<vendor>ОВЕН</vendor>
+	<vendorCode>00000</vendorCode>
+	<picture>.....</picture>
+	<price>....</price>
+	<currencyId>.....</currencyId>
+	<param name="Артикул">00000</param>
+	<param name="Код товара">00000</param>
+</offer>
+
+<offer id="100001" available="true">
+	<name>ВСХнд-25 (класс С)</name>
+	<typePrefix>счетчик холодной воды с импульсным выходом</typePrefix>
+	<url>......</url>
+	<categoryId>00000</categoryId>
+	<vendor>Тепловодомер</vendor>
+	<vendorCode>00000</vendorCode>
+	<picture>.........</picture>
+	<price>00000</price>
+	<currencyId>.....</currencyId>
+	<param name="Артикул">00000</param>
+	<param name="Код товара">00000</param>
+</offer>
